@@ -14,4 +14,4 @@
 
 ## Postman
 
-`https://documenter.getpostman.com/view/25228497/2s93XsXkmV`
+<a href="https://documenter.getpostman.com/view/25228497/2s93XsXkmV">Postman documentation</a>
